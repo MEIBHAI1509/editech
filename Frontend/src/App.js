@@ -7,7 +7,6 @@ import ContactForm from "./pages/ContactForm";
 import Footer from "./components/Footer";
 import AboutUs from "./pages/AboutUs.jsx"
 import './App.css';
- 
 
 function App() {
   return (
